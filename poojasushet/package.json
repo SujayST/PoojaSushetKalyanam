@@ -1,7 +1,7 @@
 {
   "name": "poojasushet",
   "version": "0.1.0",
-  "homepage": "https://SujayST.github.io/poojasushetkalyanam",
+  "homepage": "https://sujayst.github.io/PoojaSushetKalyanam/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
