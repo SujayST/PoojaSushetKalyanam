@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/poojasushetkalyanam/static/css/main.c2961790.css",
-    "main.js": "/poojasushetkalyanam/static/js/main.968c3cde.js",
-    "static/js/453.52a39b57.chunk.js": "/poojasushetkalyanam/static/js/453.52a39b57.chunk.js",
-    "static/media/curtain.mov": "/poojasushetkalyanam/static/media/curtain.6b8da37b44b3926cc292.mov",
-    "index.html": "/poojasushetkalyanam/index.html",
-    "main.c2961790.css.map": "/poojasushetkalyanam/static/css/main.c2961790.css.map",
-    "main.968c3cde.js.map": "/poojasushetkalyanam/static/js/main.968c3cde.js.map",
-    "453.52a39b57.chunk.js.map": "/poojasushetkalyanam/static/js/453.52a39b57.chunk.js.map"
+    "main.css": "/PoojaSushetKalyanam/static/css/main.c2961790.css",
+    "main.js": "/PoojaSushetKalyanam/static/js/main.86e0456b.js",
+    "static/js/453.52a39b57.chunk.js": "/PoojaSushetKalyanam/static/js/453.52a39b57.chunk.js",
+    "static/media/curtain.mov": "/PoojaSushetKalyanam/static/media/curtain.6b8da37b44b3926cc292.mov",
+    "index.html": "/PoojaSushetKalyanam/index.html",
+    "main.c2961790.css.map": "/PoojaSushetKalyanam/static/css/main.c2961790.css.map",
+    "main.86e0456b.js.map": "/PoojaSushetKalyanam/static/js/main.86e0456b.js.map",
+    "453.52a39b57.chunk.js.map": "/PoojaSushetKalyanam/static/js/453.52a39b57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2961790.css",
-    "static/js/main.968c3cde.js"
+    "static/js/main.86e0456b.js"
   ]
 }
